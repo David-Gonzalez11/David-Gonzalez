@@ -17,7 +17,7 @@ Stacks: JavaScript(ES5/ES6), CSS3, HTML5, React, Node.js, PostgreSQL, Express
 
 Tools: Git, Docker, GitHub, VS Code, Figma, npm, Babel, webpack, Bootstrap
 
-# Links
+# Lets Connect :link:
 - <a href="https://www.linkedin.com/in/david-gonzalez2/">LinkedIn</a>
 
  # Technologies 
