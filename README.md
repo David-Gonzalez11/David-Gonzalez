@@ -21,22 +21,20 @@ Tools: Git, Docker, GitHub, VS Code, Figma, npm, Babel, webpack, Bootstrap
 - <a href="https://www.linkedin.com/in/david-gonzalez2/">Portfolio</a>
 - <a href="https://www.linkedin.com/in/david-gonzalez2/">LinkedIn</a>
  # Technologies 
-  ![image](https://user-images.githubusercontent.com/24907191/185050767-813f7675-5c74-4977-98a9-51de44bb1338.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185050893-c2f17ed7-ee10-496e-ae91-548d5baab814.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051045-f6554e1b-7727-444e-bede-683c522c0d95.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051156-678b9519-1da2-4e6c-9b10-31c5f1210c3a.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051182-ea70b865-b8d6-4b52-9e5a-399c86c09874.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051194-eb06009a-a475-4999-a124-f275fdbe2731.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051222-189ccc2a-c858-4a78-9a54-ccb6d6d826df.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051194-eb06009a-a475-4999-a124-f275fdbe2731.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051252-a9f0e151-52e3-4ece-aac3-5f3669112745.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051194-eb06009a-a475-4999-a124-f275fdbe2731.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051269-8f3a609a-2083-4d42-9e3a-a4b07ff76ffb.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051436-fbe3cfb9-1dc7-4d20-a3ce-1814110c95c0.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051467-af124128-05d8-4f8a-bbb5-5029ca095382.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051761-3e5d3e9a-b77e-4e84-b8db-46d0ddf9a82c.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051789-631ac0f1-95cd-44a2-b79d-501321f08201.png)
-  ![image](https://user-images.githubusercontent.com/24907191/185051809-e71313b6-f4d0-4021-a5be-330ae88acafe.png)
+![image](https://user-images.githubusercontent.com/24907191/185052395-797da3f8-04c3-41d3-a146-1148676762e7.png)
+![image](https://user-images.githubusercontent.com/24907191/185052405-6e25fa88-0581-469c-a8f5-5739fb884082.png)
+![image](https://user-images.githubusercontent.com/24907191/185052418-1e8eb9e2-a031-400f-8dc6-b1c1ea0ca447.png)
+![image](https://user-images.githubusercontent.com/24907191/185052427-4505fc3b-8084-4cb9-99fd-bd62deaefa1b.png)
+![image](https://user-images.githubusercontent.com/24907191/185052440-21b4e60b-d506-4f5e-9942-c6399c16b97d.png)
+![image](https://user-images.githubusercontent.com/24907191/185052468-8c3b2b72-d934-49e5-8865-7f7db94a95a0.png)
+![image](https://user-images.githubusercontent.com/24907191/185052483-e432a0d3-c6cd-46d3-bfc0-2108c4395a18.png)
+![image](https://user-images.githubusercontent.com/24907191/185052494-40767fcc-c190-4c15-ad82-48b5b73a46b5.png)
+![image](https://user-images.githubusercontent.com/24907191/185052506-d96c3912-d85c-4ed2-903f-1fbcac8d4d71.png)
+![image](https://user-images.githubusercontent.com/24907191/185052516-1b2c547e-28e6-4715-b4fc-f0d1425b8b8f.png)
+![image](https://user-images.githubusercontent.com/24907191/185052531-a1f2f813-5af3-4946-b427-1b1efb682753.png)
+![image](https://user-images.githubusercontent.com/24907191/185052543-8c722ecf-afeb-4018-bec1-2c67bfd80b96.png)
+![image](https://user-images.githubusercontent.com/24907191/185052552-d2c25f83-b155-4844-9517-c82070580913.png)
+![image](https://user-images.githubusercontent.com/24907191/185052559-38474ccf-8546-4b20-82d8-12ed3dc98808.png)
 
 
 
