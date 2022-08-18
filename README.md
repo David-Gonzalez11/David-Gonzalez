@@ -2,7 +2,7 @@
 
 # About Me
 I like to workout and be able to set aside time for my family and friends. I like to play games, my favorite games are any of the call of duty's. I am passionate about Web Development ever since my oldest brother introduced me to it. 
-<img href="https://cdn.vox-cdn.com/thumbor/EPsOekdhrKvG5vM7khYLVcXCy5o=/93x0:1105x675/1200x800/filters:focal(93x0:1105x675)/cdn.vox-cdn.com/uploads/chorus_image/image/46215208/j.0.0.jpg"/>
+<img src="https://cdn.vox-cdn.com/thumbor/EPsOekdhrKvG5vM7khYLVcXCy5o=/93x0:1105x675/1200x800/filters:focal(93x0:1105x675)/cdn.vox-cdn.com/uploads/chorus_image/image/46215208/j.0.0.jpg"/>
 # :bulb: Fun Facts About Me
 - I like working on cars :car:
 - I wash cars on the side to make extra money(COVID made me do it) :mask:
