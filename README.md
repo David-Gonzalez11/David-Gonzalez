@@ -1,5 +1,3 @@
-<img src="[https://cdn.vox-cdn.com/thumbor/EPsOekdhrKvG5vM7khYLVcXCy5o=/93x0:1105x675/1200x800/filters:focal(93x0:1105x675)/cdn.vox-cdn.com/uploads/chorus_image/image/46215208/j.0.0.jpg](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&w=1000&q=80)" height="400px" width="1000px"/>
-
 # :bowtie: Hello Everyone my name is David!
 
 # About Me
