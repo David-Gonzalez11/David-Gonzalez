@@ -22,7 +22,8 @@ Tools: Git, Docker, GitHub, VS Code, Figma, npm, Babel, webpack, Bootstrap
 # Lets Connect :link:
 - <a href="https://www.linkedin.com/in/david-gonzalez2/">LinkedIn</a>
 
-- [David-Gonzalez(jest).pdf](https://github.com/David-Gonzalez11/David-Gonzalez11/files/10077648/David-Gonzalez.jest.pdf)
+- [SPR-SOFTWARE-ENGINEER.pdf](https://github.com/David-Gonzalez11/David-Gonzalez11/files/10366749/SPR-SOFTWARE-ENGINEER.pdf)
+
 
 
 
