@@ -23,7 +23,7 @@ Experienced: TypeScript, React Native, Jest
 # Lets Connect :link:
 - <a href="https://www.linkedin.com/in/david-gonzalez2/">LinkedIn</a>
 
-- [SPR-SOFTWARE-ENGINEER.pdf](https://github.com/David-Gonzalez11/David-Gonzalez11/files/10366749/SPR-SOFTWARE-ENGINEER.pdf)
+- [David_Gonzalez-Resume.pdf](https://github.com/David-Gonzalez11/David-Gonzalez11/files/12087933/David_Gonzalez-Resume.pdf)
 
 
 
